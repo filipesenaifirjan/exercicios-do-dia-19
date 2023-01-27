@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,300;1,400;1,500&display=swap');
+
+
+
+
+* {
+    font-family: 'Prompt', sans-serif;
+    background-image: url('./img/fundo.jpg') ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover ;
+    background-attachment: fixed;
+    
+}
+.my-button {
+    
+   
+    border-color: blueviolet;
+    border-radius: 0.4rem;
+    margin-left: 1.5rem;
+ }
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+ footer {
+    text-align: center;
+ }
+ .telefone {
+    text-align: center;
+ }
+ h1, h2, h4, p  {
+    margin-left: .5rem;
+ }
+ .email {
+    text-align: center;
+ }
