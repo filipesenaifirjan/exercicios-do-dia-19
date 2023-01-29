@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,500;1,300&display=swap');
+
+* {
+    font-family: 'Roboto Mono', monospace;
+
+    background-color: #E1EDF2;
+    padding: 10px;
+    width: 940px;
+  margin: 0 auto;
+}
+
+.my-button {
+
+    margin: 40px;
+  
+    border-color:  blueviolet;
+    border-radius: 0.4rem;
+    margin-left: 1.9rem;
+    cursor:pointer;
+     }
+     .my-button:hover {
+        -webkit-transform:scale(1.1); 
+           -moz-transform:scale(1.1); 
+             -o-transform:scale(1.1);
+                   transform:scale(1.1);
+     }
+     .center {
+      display: block;
+      margin: 0 auto;
+    }
+
+    .figure2{
+      width: 275px;
+      float: right;
+    }
+.figure1{
+   padding: 15px;
+   margin: 30px;
+   width: 550px;
+      display: flex;
+      align-items: center; /*nesse caso não vai funcionar por que esou determinando a posição acima */
+      justify-content: center;
+      background-color: whitesmoke;
+      color: lightgrey;
+    }
+    .figure1 alt {
+      margin-bottom:10px
+    }
+
+      h2 {  /*margem na parte de baixo */
+        
+          border-bottom: 1px solid black;
+          color: #3D3D3D; /*cor pedida no ex*/
+        }
+      
+
+      footer {
+        text-align: center;
+     }
+     .telefone {
+        text-align: center;
+     }
+     h1, h4, p  {
+        margin-left: .5rem;
+        color: #3D3D3D;
+        
+     }
+     .email {
+        text-align: center;
+     }
+    

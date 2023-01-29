@@ -1,0 +1,24 @@
+● No titulo principal:
+○ Alterar a cor da fonte para um cinza-escuro "#3D3D3D" ok
+○ Colocar uma cor de fundo cinza-azulado "#E1EDF2" ok
+○ Adicionar um padding de 10px ok
+● Nos subtítulos:
+○ Colocar uma borda na parte de baixo ok
+● Nas figuras:
+○ Centralizar o conteúdo ok
+○ Colocar uma cor de fundo chamada “whitesmoke” ok
+○ Alterar a cor da fonte para um cinza-claro "lightgrey" ok
+○ Adicionar um padding de 15px e uma margem de 30px ok
+○ Dentro das figuras, afastar 10px a legenda da imagem ok
+● Em toda a página:
+○ Diminuir a largura do conteúdo da página para 940px ok
+○ Afastar o conteúdo da página dos cantos direito e esquerdo até que fique
+centralizado ok
+● Na primeira figura:
+○ Ajustar para uma largura de 550px ok
+○ Centralizar em relação a página. ok
+● Na segunda figura:
+○ Ajustar para uma largura de 275px ok
+○ Alinhar à direita da página ok
+● Fazer com que Título principal da página - Desenvolvimento Web e o Título: Fontes
+tenham o mesmo estilo  ok
